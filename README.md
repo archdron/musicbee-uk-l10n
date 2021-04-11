@@ -1,6 +1,6 @@
 # MusicBee — Українська локалізація
 
-![MusicBee UK Logo](https://github.com/archdron/musicbee-uk-l10n/blob/master/img/mb_uk_logo.png "Made with an Icon made by Freepik from www.flaticon.com")
+![MusicBee UK Logo](https://github.com/archdron/musicbee-uk-l10n/blob/master/img/mb_uk_logo.png "Made with an Icon by Freepik from www.flaticon.com")
 
 Це сховище з файлами української локалізації MusicBee — програми для прослуховування й упорядкування музики.
 
