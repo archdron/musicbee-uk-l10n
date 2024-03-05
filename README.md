@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 # MusicBee — Українська локалізація
 
 ![MusicBee UK Logo](https://github.com/archdron/musicbee-uk-l10n/blob/master/img/mb_uk_logo.png "Made with an Icon by Freepik from www.flaticon.com")
